@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1620310912 source:c:\users\bendh\onedrive\desktop\statistique corona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTPRIM.C"
+	"ELTPRIM.C"
+	<windows.h>
+	<conio.h>
+	<MMsystem.h>
+
+1619951262 c:\users\bendh\onedrive\desktop\statistique corona\lstprim.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1619895493 c:\users\bendh\onedrive\desktop\statistique corona\eltprim.h
+	"ELTSDD.H"
+
+1619895668 c:\users\bendh\onedrive\desktop\statistique corona\eltsdd.h
+	"STRUCTURES.H"
+
+1619895744 c:\users\bendh\onedrive\desktop\statistique corona\structures.h
+
+1619895765 c:\users\bendh\onedrive\desktop\statistique corona\lstprim.h
+	"LSTSDD.H"
+	"ELTPRIM.H"
+
+1619895625 c:\users\bendh\onedrive\desktop\statistique corona\lstsdd.h
+	"STRUCTURES.H"
+
+1619948568 c:\users\bendh\onedrive\desktop\statistique corona\eltprim.c
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<MMsystem.h>
+	"ELTPRIM.h"
+
